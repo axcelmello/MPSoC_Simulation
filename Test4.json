@@ -1,0 +1,25 @@
+{
+    "MPSOC_SIZE_X": "12",
+    "MPSOC_SIZE_Y": "12",
+    "CLUSTER_SIZE_Y": "12",
+    "CLUSER_SIZE_Y": "12",
+    "TASKS_PER_PROCESSOR": "3",
+    "TEST": [
+        { 
+            "APP": "appC",
+            "QTD": "30"
+        },
+        { 
+            "APP": "appB",
+            "QTD": "30"
+        },
+        { 
+            "APP": "appC",
+            "QTD": "40"
+        },
+        { 
+            "APP": "appA",
+            "QTD": "5"
+        }
+    ]
+}

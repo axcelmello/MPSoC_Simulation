@@ -1,0 +1,29 @@
+{
+    "grafo_tarefas": [
+        { 
+            "tarefa_origem": "A",
+            "tarefa_destino": "D",
+            "quantidade_pacotes": 4
+        },
+        { 
+            "tarefa_origem": "A",
+            "tarefa_destino": "B",
+            "quantidade_pacotes": 3
+        },
+        { 
+            "tarefa_origem": "A",
+            "tarefa_destino": "C",
+            "quantidade_pacotes": 1
+        },
+        { 
+            "tarefa_origem": "D",
+            "tarefa_destino": "A",
+            "quantidade_pacotes": 2
+        },
+        { 
+            "tarefa_origem": "A",
+            "tarefa_destino": "A",
+            "quantidade_pacotes": 1
+        }
+    ]
+}
